@@ -13,4 +13,4 @@ I'll add more details as I become smarter. Or add more potatoes.
 
 
 
-All credit goes to Valve and Portal 2 developers for the name.
+All credit goes to Valve Corporation, also known as Valve Software and Portal 2 developers for the name. Special shoutout to [Stephen Merchant](https://www.stephenmerchant.com/) for his brilliant performance.
