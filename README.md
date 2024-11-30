@@ -19,4 +19,6 @@ I'll add more details as I become smarter. Or add more potatoes.
 
 
 
-All credit goes to Valve Corporation, also known as Valve Software and Portal 2 developers, for the name. Special shoutout to [Stephen Merchant](https://www.stephenmerchant.com/) for his brilliant performance. Valve Corporation has not endorsed any of this project. I find it slightly offensive that you think they might have.
+All credit for the name goes to Valve Corporation, also known as Valve Software and Portal 2 developers. Special shoutout to [Stephen Merchant](https://www.stephenmerchant.com/) for his brilliant performance. 
+
+Valve Corporation has not endorsed any of this project. I find it slightly offensive that you think they might have.
